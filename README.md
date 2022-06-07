@@ -45,3 +45,7 @@ Leveraging a strategy coined the [Dual Moving Average Crossover (DMAC)](https://
 	    
 	      return (sigPriceBuy, sigPriceSell)
 
+
+## Results and Sources of Inaccuracy
+
+Producing a univariate crossover strategy with the simple moving average was not significantly efficient or profitable; thus, confluence with another set of programmed indicators or boundaries may be required to yield greater profits. 
